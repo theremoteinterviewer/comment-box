@@ -1,0 +1,14 @@
+# Input Validation
+
+-- Talk to back-end engineer
+
+# Colors
+
+Outer comment box border: #9C9B9B
+Comment box sub-section borders: #8A8A8A
+"Comment" title bar color 1: #59BCA2
+"Comment" title bar color 2: #ffffff
+
+# Fonts
+
+Body: Arial
